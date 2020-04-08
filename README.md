@@ -1,9 +1,9 @@
-![Flutter Book App github](https://user-images.githubusercontent.com/55942632/75602848-ecd01e80-5aee-11ea-8c2c-93dab292f3ea.png)
+![Flutter Book App github](https://github.com/varunswarup0/star-wars-autocomplete/blob/master/starWarsAutocomplete.png)
     
 <p align="center">
   <a href="https://twitter.com/Theindianappguy">
     <img src="https://img.shields.io/github/stars/theindianappguy/flutterbookapp?style=for-the-badge" alt="Total downloads on GitHub." /></a>
-<a href="https://www.linkedin.com/in/lamsanskar/">
+<a href="https://www.linkedin.com/in/varun-swarup/">
     <img src="https://img.shields.io/badge/Support-Recommed%2FEndorse%20me%20on%20Linkedin-yellow?style=for-the-badge&logo=linkedin" alt="Recommend me on LinkedIn" /></a>
 
 <a href="http://bit.ly/399s9gB">
